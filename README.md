@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidnajim" alt="saidnajim" /></a> </p>
 
-- 🔭 I’m currently working on **"Croissance"**
+- 🔭 I’m currently working on ["Croissance"](https://github.com/SaidNajim/Croissance-React_SPA_Leadership_Guide)
 
 - 🌱 I’m currently learning **web development paradigms and more CS fundamentals.**
 
