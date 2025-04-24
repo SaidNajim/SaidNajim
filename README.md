@@ -1,6 +1,6 @@
 ![Header](./github-header-img.png)
 
-<h3 align="center">SAID NAJIM - software engineering student in Télécom SudPairs & ENSIAS, GCP and OCI certified.</h3>
+<h3 align="center">Certified: GCP Professional Cloud Architect, OCI DevOps Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidnajim&label=Profile%20views&color=0e75b6&style=flat" alt="saidnajim" /> </p>
 
