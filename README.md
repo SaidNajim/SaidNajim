@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-img.png)
 
 <h3 align="center">I am SAID NAJIM, a software engineering student from ENSIAS and CS50 certified.</h3>
 
