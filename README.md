@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidnajim" alt="saidnajim" /></a> </p>
 
-- 🔭 I’m currently working on ["Croissance"](https://github.com/SaidNajim/Croissance-React_SPA_Leadership_Guide)
+- 🔭 I’m currently working on ["VISULART"](https://www.linkedin.com/company/visulart/)
 
-- 🌱 I’m currently learning **web development paradigms and more CS fundamentals.**
+- 🌱 I’m currently learning **more Kubernetes concepts and deepening my knowledge of AWS.**
 
-- 📫 To reach me **saidnajim.ma@gmail.com**
+- 📫 To reach me **saidnajimetu@gmail.com**
 
 - ⚡ Fact **Certainly, there's much to learn and many problems to solve.**
 
